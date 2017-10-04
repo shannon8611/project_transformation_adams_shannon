@@ -44,9 +44,6 @@ p, ul, ol {
     line-height: 180%;
 }
 
-ul, ol {
-}
-
 a {
     color: #5E5E5E;
 }
@@ -211,9 +208,6 @@ a:hover {
     color: #FFFFFF;
 }
 
-#menu .current_page_item a {
-}
-
 /* Page */
 
 #page {
@@ -262,9 +256,6 @@ a:hover {
 
 .post .meta .posted {
     float: right;
-}
-
-.post .meta a {
 }
 
 .post .entry {
@@ -369,9 +360,6 @@ a:hover {
 
 /* Calendar */
 
-#calendar {
-}
-
 #calendar_wrap {
     padding: 20px;
 }
@@ -430,9 +418,6 @@ a:hover {
 #footer-content #fbox3 {
     float: right;
     width: 300px;
-}
-
-#footer-content a {
 }
 
 #column1 {
@@ -516,10 +501,6 @@ a:hover {
     height: 340px;
     background: url(../img/img03.png) no-repeat left bottom;
 }
-
-#banner .content {
-}
-
 
 .list-style1 {
     margin: 0px;
