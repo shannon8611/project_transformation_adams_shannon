@@ -321,6 +321,15 @@ header {
     background: url(../img/img03.png) no-repeat left bottom;
 }
 
+#banner img {
+    width: 100%;
+    height: auto;
+}
+
+.site-container {
+    max-width: 1200px;
+}
+
 .list-style1 {
     margin: 0px;
     padding: 0px;
