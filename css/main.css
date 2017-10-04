@@ -127,6 +127,25 @@ a {
     color: #FFFFFF;
 }
 
+@media all and (min-width: 600px) {
+    nav li {
+        width: 50%;
+        display: inline-block;
+    }
+}
+
+@media all and (min-width: 850px) {
+    nav li {
+        width: calc(100% / 3);
+    }
+}
+
+@media all and (min-width: 1200px) {
+    nav li {
+        width: calc(100% / 5);
+    }
+}
+
 /* Page */
 
 #page {
