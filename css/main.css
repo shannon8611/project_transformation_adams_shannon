@@ -98,14 +98,6 @@ a {
 
 /* Menu */
 
-#menu {
-    float: right;
-    width: 500px;
-    height: 90px;
-    margin: 0 auto;
-    padding: 0;
-}
-
 #menu ul {
     float: right;
     margin: 0;
@@ -114,21 +106,16 @@ a {
     line-height: normal;
 }
 
-#menu li {
-    float: left;
-}
-
 #menu a {
     display: block;
-    line-height: 100px;
+    line-height: 45px;
     margin-right: 1px;
-    padding: 0px 20px 0px 20px;
     text-decoration: none;
     text-align: center;
     text-shadow: 1px 1px 0px rgba(0,0,0,.2);
     text-transform: uppercase;
     font-family: 'Oswald', sans-serif;
-    font-size: 16px;
+    font-size: 1em;
     font-weight: 300;
     color: #1F1F1F;
     border: none;
