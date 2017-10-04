@@ -153,13 +153,13 @@ a {
     padding: 30px 0px;
 }
 
-/* Content */
+/*Header*/
 
-#content {
-    float: right;
-    width: 660px;
-    padding: 0px 0px 0px 0px;
+header {
+    margin: auto;
 }
+
+/* Content */
 
 .post {
     overflow: hidden;
@@ -231,7 +231,6 @@ a {
 /* Sidebar */
 
 #sidebar {
-    float: left;
     width: 270px;
     margin: 0px;
     padding: 30px 0px 0px 0px;
