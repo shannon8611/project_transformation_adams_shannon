@@ -296,9 +296,8 @@ header {
 /* Footer */
 
 #footer {
-    height: 140px;
     margin: 0 auto;
-    padding: 50px 0 15px 0;
+    padding: 15px 0 15px 0;
     font-family: 'Abel', sans-serif;
 }
 
