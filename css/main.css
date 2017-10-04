@@ -56,19 +56,6 @@ a {
     margin: 0px auto;
 }
 
-/* Header */
-
-#header-wrapper {
-    overflow: hidden;
-}
-
-#header {
-    width: 1000px;
-    height: 150px;
-    margin: 0 auto;
-    padding: 0px 0px;
-}
-
 /* Logo */
 
 #logo {
