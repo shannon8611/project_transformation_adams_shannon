@@ -2,7 +2,7 @@
 
 ## Links
 * [GitHub - Responsive Transformation Project Link](https://github.com/shannon8611/project_transformation_adams_shannon)
-* [Web Host - Responsive Transformation Project Link]
+* [Web Host - Responsive Transformation Project Link (http://www.shannoneadams.com/responsive_transformation_adams_shannon/)
 * [W3C Validation - Responsive Transformation Project Link] (https://validator.w3.org/nu/?doc=http%3A%2F%2Fwww.shannoneadams.com%2Fresponsive_transformation_adams_shannon%2F)
 * [HTML5 Outliner - Responsive Transformation Project Link](https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Fwww.shannoneadams.com%2Fresponsive_transformation_adams_shannon%2F)
 
